@@ -1,11 +1,12 @@
-## Hi there 👋
+## Hello! Welcome to my GitHub profile 👋
 
 <!--
 **shreyachallagulla29/shreyachallagulla29** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+- 🔭 I'm Shreya, an AI Engineer passionate about building intelligent systems that solve real-world problems. With a deep interest in Machine Learning, Deep Learning, and Computer Vision, I’m driven to create innovative solutions that are both impactful and scalable.
+
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
