@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Shreya</h1>
 <h3 align="center">A passionate AI Engineer From India</h3>
 
-- 🔭 Projects I've Worked On [AR-Project](https://github.com/shreyachallagulla29/AR-Project.git)
+- 🔭 Projects I've Worked On [AR-Project](https://github.com/shreyachallagulla29/AR-Project.git) , [ULT Refrigirator Failure Prediction using ML Techniques] (https://github.com/shreyachallagulla29/ULT-Refrigerator-Failure-Prediction.git) and [Advance Prediction of Process Variables Using Deep Learning] (https://github.com/shreyachallagulla29/Advance-Prediction-of-Variables.git)
 
 - 🌱 I’m currently solving problems in coding platforms **Leetcode, Codechefs**
 
